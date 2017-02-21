@@ -39,11 +39,17 @@ main(){
 mocemul ricxvebshi umaglesi baitis povna anu imis povna roca 1 emtxveva 1 s da vigebt erts imitom rom chven vitvlit & it da am shemtxvevashi mxolod 1 da 1 ia 1 is toli!
   pasuxi iqneba! anu >> - vshiftavt iqamde sadamdec 1 iani 1 s ar dametxveva da 00111100 00001101! qveshmiwerit shekrebisas 1 - 1s tu ar dametxva pasuxi iqneba false
   
-
+	
+	HINT : structuris zoma arasodes ar icvleba! NEVER!
+		
+		
+tu 64 bitiani arqiteqturaa pointeri gaizrdeba 8 baitis xarjze!
+tu 32 bitiani arqiteqturaa pointeri gaizrdeba 4 baitis xarjze!		
   
 
-
-
+VOID - ar gaachnia return type! 
+		
+char tipshi sul eteva 256 simbolo an ricxvi! 
 
 
 
