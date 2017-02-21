@@ -18,9 +18,29 @@ c = a ^ b; 0011 0001
 00100000 = 32;
 00010000 = 16;
 
+baitis shemtxvevashi atvla iwyeba marjvnidan marcxniv!
 
+main(){
+	srand(time(NULL));
+	int n = 128;
+	int i = 7;
+	int r = rand() % 128;
 
+	while ((n&r) == 0) {
+		n >>= 1;
+		i--;
 
+	}
+	printf("random number = %d , position = %d ",r, i);
+	
+	getchar();
+}
+
+mocemul ricxvebshi umaglesi baitis povna anu imis povna roca 1 emtxveva 1 s da vigebt erts imitom rom chven vitvlit & it da am shemtxvevashi mxolod 1 da 1 ia 1 is toli!
+  pasuxi iqneba! anu >> - vshiftavt iqamde sadamdec 1 iani 1 s ar dametxveva da 00111100 00001101! qveshmiwerit shekrebisas 1 - 1s tu ar dametxva pasuxi iqneba false
+  
+
+  
 
 
 
