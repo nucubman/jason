@@ -93,7 +93,9 @@ main() {
 
 	getchar();
 } // es da zeda davaleba erti da igivea!///////////////////////////////////////////////////////////////////////////////////////////////////
-
+tu 60 s dvarendebt 32 ttan da mivigebt igive ricxvs anu 32 s e.i me-5 biti aris 1 iani
+tu 60 s davarendebt 32 ttan da mivigebt 0 s e.i mexute bitze aris 0 iani!
+tu 60 s davarendebt 64 ttan da mivigebt 0 s e.i meeqvse bitze aris 0 iani da ase shemdeg!	
 
 
 
