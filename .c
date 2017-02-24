@@ -53,7 +53,46 @@ char tipshi sul eteva 256 simbolo an ricxvi!
 
 
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+int main() {
+	int a = 60;
+	int i = 0;
+	int c = 1;
+	int r = rand() % 100;
+	printf("random: %d ", r);
+	for (i = 0; i < 8; i++) {
+		if ((r&a) ==  0)  {
+			printf("*");
+		}
+		else {
+			printf("  __  ");
 
+		}
+		a >>= 1;
+  }
+	getchar();
+}
+
+#define _CRT_SECURE_NO_WARNINGS 1
+#include <stdio.h>
+#include <conio.h>
+#include <Windows.h>
+
+main() {	
+	unsigned int a = rand()%128;	
+
+	int c = 0;
+
+	for (int i = 7; i >= 0; i--) {
+		if ((a & 1<<i) == 1 << i) {
+			printf("*");
+		} else {
+			printf("_");
+		}
+	}
+
+	getchar();
+} // es da zeda davaleba erti da igivea!///////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
